@@ -1,0 +1,68 @@
+ body .cs{
+    /* position: absolute; */
+    margin: 0;
+}
+.div1{
+    position: fixed;
+    top:0;
+    z-index: +2;
+}
+.ul1{
+    margin-top: 0%;
+    /* margin: 30%; */
+    color:white;
+    width: 95%;
+    font-size: 20px;
+    background-color: rgb(189, 165, 165);
+    display: flex;
+    /* gap: 120px; */
+    list-style: none;
+    /* justify-content: space-evenly; */
+    height: 90px;
+    text-decoration: none;
+    margin-top: 40px 20px;
+    gap: 20px ;
+    /* z-index: +2; */
+}
+.www1{
+    display: flex;
+    height: 30px;
+    margin-top: 10px;
+    width: 150px;
+    font-size: 30px;
+    margin-top: 20px;
+}
+.img1{
+    width: 300px;
+}
+.div2{
+    position: relative;
+    top: 10%;
+    margin-left: 40px;
+}
+.div3{
+    /* display: flex; */
+    margin-left: 300px;
+    border: 1px solid black;
+    width: 350px;
+}
+.main{
+    display: flex;
+    margin-left: 10px;
+    position: absolute;
+    top: 30%;
+    /* justify-content: space-evenly; */
+    /* z-index: 2; */
+}
+.era{
+    margin-top: 20px;
+}
+.era1{
+    width: 500px;
+    height: 30px;
+    margin-top: 18px;
+    border-radius: 5px;
+}
+/* .cs{
+    position: fixed;
+} */
